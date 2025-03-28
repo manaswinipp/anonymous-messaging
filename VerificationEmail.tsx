@@ -61,4 +61,4 @@ export default function VerificationEmail({ username, otp }: VerificationEmailPr
       </Section>
     </Html>
   );
-}
+}   
